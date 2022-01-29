@@ -18,11 +18,12 @@ public class DataBase {
     private String serverName = "localhost";
     private String portNumber = "3306";
     private String userName = "root";
-    private String password = "lalala";
+    private String password;
     private String dbms = "mariadb";
     private String db = "jdbc-practice";
 
     public DataBase() {
+        this.password = System.getenv("password");
         
     }
 
