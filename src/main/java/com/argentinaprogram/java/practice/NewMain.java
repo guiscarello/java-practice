@@ -35,7 +35,10 @@ public class NewMain {
         //PracticaCollections.segundoProblema();
         //PracticaCollections.tercerProblema();
         
-        PracticaJDBC.primerProblema();
+        //PracticaJDBC.primerProblema();
+        //PracticaJDBC.segundoProblema();
+        //PracticaJDBC.tercerProblema();
+        PracticaJDBC.cuartoProblema();
     }
     
 }

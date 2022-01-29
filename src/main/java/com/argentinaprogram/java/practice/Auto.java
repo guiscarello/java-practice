@@ -4,7 +4,7 @@
  */
 package com.argentinaprogram.java.practice;
 
-import com.argentinaprogram.java.practice.Enum.MarcaAuto;
+import com.argentinaprogram.java.practice.Enums.MarcaAuto;
 
 /**
  *
